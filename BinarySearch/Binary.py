@@ -18,3 +18,4 @@ def binary_search(arr, target):
 my_list = [1, 3, 5, 6, 7, 8, 9, 19]
 
 print(binary_search(my_list, 5))
+
